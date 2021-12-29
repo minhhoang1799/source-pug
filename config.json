@@ -1,0 +1,15 @@
+{
+	"font": ["src/fonts/**"],
+	"js": [
+		"bower_components/jquery/dist/jquery.min.js",
+		"node_modules/swiper/dist/swiper-bundle.min.js",
+		"bower_components/lozad/dist/lozad.min.js",
+		"node_modules/@fancyapps/ui/dist/fancybox.umd.js"
+	],
+	"css": [
+		"src/_plugins/font.css",
+		"src/_plugins/font-awesome5pro.css",
+		"node_modules/swiper/dist/swiper-bundle.min.css",
+		"node_modules/@fancyapps/ui/dist/fancybox.css"
+	]
+}
